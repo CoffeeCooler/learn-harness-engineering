@@ -15,6 +15,19 @@ Learn Harness Engineering is a course dedicated to the engineering of AI coding 
 
 ---
 
+## Table of Contents
+
+- [✨ Visual Preview](#-visual-preview)
+- [What Harness Engineering Actually Means](#what-harness-engineering-actually-means)
+- [Quick Start: Improve Your Agent Today](#quick-start-improve-your-agent-today)
+- [Capstone Project: A Real App](#capstone-project-a-real-app)
+- [Learning Path](#learning-path)
+- [Syllabus](#syllabus)
+- [Skills](#skills)
+- [Other Courses](#other-courses)
+
+---
+
 ## ✨ Visual Preview
 
 ### 🏠 Course Homepage
@@ -513,6 +526,24 @@ learn-harness-engineering/
 - Every project requires the agent to do real work
 - Every project compares weak vs. strong harness results
 - What matters is the measured difference, not how many docs were written
+
+---
+
+## Skills
+
+This repository also includes reusable AI agent skills that you can install directly into your IDE or agent workspace.
+
+- [**harness-creator**](./skills/harness-creator/): A skill that helps you scaffold a production-grade harness for your own project in minutes.
+
+---
+
+## Other Courses
+
+Our team has also created other courses! Check them out:
+
+[![Hands-on Modern RL](https://img.shields.io/badge/HANDS--ON_MODERN_RL-0052cc?style=for-the-badge)](https://github.com/walkinglabs/hands-on-modern-rl)
+
+**Hands-on Modern RL**: An open-source, hands-on curriculum bridging the gap from basic RL concepts to LLM alignment, RLVR, and advanced Agentic systems.
 
 ---
 
